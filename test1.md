@@ -1,5 +1,3 @@
 # closetzero
 
 ## First revice
-
-- test
